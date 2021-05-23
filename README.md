@@ -13,6 +13,7 @@ I am a self-taught software engineer.
 * 💬 Very passionate about online data control/privacy.
 * ✨ Studied Accounting and Finance at Durham University
 * 🏢 Began Coding for Minecraft Plugins in Java when I was 12.
+* 🌱 Looking to start my career as a software engineer.
 
 ### Largest Project
 RandomCoordinates: A Minecraft plugin. This was one of my first serious coding projects and was all self-taught. There is 2 repos for this on my page, one was the first attempt and then a complete re-write once I became more advanced at Java.
@@ -27,7 +28,7 @@ I have always had a passion for Technology, starting from when I had the first i
 
 It started as iPad tutorials for 'Slice It' on particularly hard levels. The [first video](https://www.youtube.com/watch?v=n5dW-kQ5n84) was me pointing a camera at an iPad and a song I made myself on Garageband. After 3 more of these videos I moved on to Mac tutorials.
 
-Specificallky my most popular videos at the time were for GeekTools. This was a cool Mac app that allowed you to customise your desktop with all sorts of info.
+Specifically my most popular videos at the time were for GeekTools. This was a cool Mac app that allowed you to customise your desktop with all sorts of info.
 
 From there it was various tutorials that I thought there was a need for. My first popular video was ["How to Dual Monitors on a Macbook Pro"](https://www.youtube.com/watch?v=xvtYatV7PKk) with over 40k views. Something I considered amazing at as a 13yr old.
 
