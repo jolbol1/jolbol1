@@ -5,6 +5,7 @@
 ### 💻 Current Projects
 * Codecademy Full-Stack Course
 * Exploring possible career paths within Software Engineering
+* Self-Hosted Server Maintenance
 
 ### 👨 Bio
 * 🏢 Based in London UK.
