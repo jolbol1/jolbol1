@@ -20,6 +20,19 @@ RandomCoordinates: A Minecraft plugin. This was one of my first serious coding p
 
 While the project is no longer maintained it has amassed over 100,000 downloads on various sites (e.g [Spigot](https://www.spigotmc.org/resources/randomcoords-rtp-advanced-random-teleporter.1680/))
 
+### Securtiy / Privacy
+Security and Privacy has become a particularly hot topic within technology within the last few years. I started to take an interest when my accounts were involved in several data breaches. Since then I have ensured I use a different password for all services, a different email (using a catch-all at my custom domain) and enabling two factor for my most important services.
+
+Furthermore, I try to ensure I am browsing the interent as safely as possible. For example, using a Pi-Hole to block all tracking requestst and adverts on my entire home network. Using Linux and Firefox (with Modifications) for my web browsing and using a VPN.
+
+I also self-host:
+* A Media Server
+* My backups for phone, computer and general files
+* Speedtest
+* Meta-Search Engine (SearX)
+* VS Code
+* And anything else I can!
+
 
 ---
 ### YouTube
