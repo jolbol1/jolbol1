@@ -2,7 +2,7 @@
 ---
 I am a self-taught software engineer. 
 
-### Current Projects
+### 💻 Current Projects
 * Codecademy Full-Stack Course
 * Exploring possible career paths within Software Engineering
 
