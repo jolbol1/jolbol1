@@ -18,6 +18,8 @@ I am a self-taught software engineer.
 RandomCoordinates: A Minecraft plugin. This was one of my first serious coding projects and was all self-taught. There is 2 repos for this on my page, one was the first attempt and then a complete re-write once I became more advanced at Java.
 
 While the project is no longer maintained it has amassed over 100,000 downloads on various sites (e.g [Spigot](https://www.spigotmc.org/resources/randomcoords-rtp-advanced-random-teleporter.1680/))
+
+
 ---
 #### SlicedWalkthroughs
 I have always had a passion for Technology, starting from when I had the first iPad or my first Macbook. When I got my Macbook it seemed many of my friends did not know how to use them, So I put tutorials a YouTube Channel. 
