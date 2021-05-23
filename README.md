@@ -1,6 +1,6 @@
 ## 👋 Hello Guys! 
 ---
-*I am a self-taught software engineer.* 
+**I am a self-taught software engineer.** 
 
 ### 💻 Current Projects
 * Codecademy Full-Stack Course
