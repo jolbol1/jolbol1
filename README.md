@@ -21,8 +21,8 @@ While the project is no longer maintained it has amassed over 100,000 downloads 
 
 
 ---
-#### SlicedWalkthroughs
-I have always had a passion for Technology, starting from when I had the first iPad or my first Macbook. When I got my Macbook it seemed many of my friends did not know how to use them, So I put tutorials a YouTube Channel. 
+### SlicedWalkthroughs
+I have always had a passion for Technology, starting from when I had the first iPad or my first Macbook. When I got my Macbook it seemed many of my friends did not know how to use them, So I started a YouTube Channel at 13yrs old. 
 
 It started as iPad tutorials for 'Slice It' on particularly hard levels. The [first video](https://www.youtube.com/watch?v=n5dW-kQ5n84) was me pointing a camera at an iPad and a song I made myself on Garageband. After 3 more of these videos I moved on to Mac tutorials.
 
