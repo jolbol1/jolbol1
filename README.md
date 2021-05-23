@@ -21,7 +21,8 @@ While the project is no longer maintained it has amassed over 100,000 downloads 
 
 
 ---
-### SlicedWalkthroughs
+### YouTube
+#### SlicedWalkthroughs
 I have always had a passion for Technology, starting from when I had the first iPad or my first Macbook. When I got my Macbook it seemed many of my friends did not know how to use them, So I started a YouTube Channel at 13yrs old. 
 
 It started as iPad tutorials for 'Slice It' on particularly hard levels. The [first video](https://www.youtube.com/watch?v=n5dW-kQ5n84) was me pointing a camera at an iPad and a song I made myself on Garageband. After 3 more of these videos I moved on to Mac tutorials.
@@ -34,3 +35,12 @@ My last video was 5yrs ago and turned out to be the most popular, ["How to Map K
 
 Interestingly, depsite the channel existing for 10yrs out most popular year was 2020 as I imagine several people needed to use their Mac's to work from home.
 
+#### FuzedDesigns
+I also once had a YouTube channel dedicated to photoshop speed arts and YouTube channel design (backgrounds, logos, etc). Unfortunatley the channel is no longer up.
+
+#### Misc Failed and Removed Channel (I tried a lot)
+* SlicedDesigns
+* CraziiPlays
+* ImBaffled
+* JolbolCrafts
+* Many many more embarassing names
