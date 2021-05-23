@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello Guys! 👋
+I am a self-taught software engineer. 
 
-<!--
-**jolbol1/jolbol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Projects
+* Codecademy Full-Stack Course
+* Exploring possible career paths within Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Bio
+* 🏢 Based in London UK.
+* ⚙️ I am self-taught in Java, Pyhton, JavaScript, CSS and HTML
+* 🌱 Learning all about Open Source
+* 💬 Very passionate about online data control/privacy.
+* ✨ Studied Accounting and Finance at Durham University
+*✨  Began Coding for Minecraft Plugins in Java when I was 12.
