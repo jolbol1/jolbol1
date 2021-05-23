@@ -1,4 +1,4 @@
-## Hello Guys! 👋
+## 👋 Hello Guys! 
 ---
 I am a self-taught software engineer. 
 
