@@ -23,7 +23,7 @@ While the project is no longer maintained it has amassed over 100,000 downloads 
 ### Securtiy / Privacy
 Security and Privacy has become a particularly hot topic within technology within the last few years. I started to take an interest when my accounts were involved in several data breaches. Since then I have ensured I use a different password for all services, a different email (using a catch-all at my custom domain) and enabling two factor for my most important services.
 
-Furthermore, I try to ensure I am browsing the interent as safely as possible. For example, using a Pi-Hole to block all tracking requestst and adverts on my entire home network. Using Linux and Firefox (with Modifications) for my web browsing and using a VPN.
+Furthermore, I try to ensure I am browsing the interent as safely as possible. For example, using a Pi-Hole to block all tracking requestst and adverts on my entire home network. Using Linux and Firefox (with Modifications) for my web browsing and using a VPN. Its not that I have something to hide, I just prefer to be in control of how and what data is collected.
 
 I also self-host:
 * A Media Server
