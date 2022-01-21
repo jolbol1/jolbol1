@@ -8,7 +8,7 @@
 * Self-Hosted Server Maintenance
 * Microcontroller (Raspberry Pico) experiments
 
-### ⚙️ Skills
+### ⚙️ Language/Framework Skills
 * HTML
 * CSS
 * SASS
@@ -20,6 +20,13 @@
 * .NET Core
 * Blazor
 * Microsoft SQL
+
+### 👍 Developer Skills
+* Well organised using Scrum and Agile techniques
+* Good at problem solving, one of the main reasons I picked a career in development
+* Great at working within a small or large team, able to offer input, give and take constructive feedback.
+* Able to communicate well with end users. Often writing clear and concise wikis at my current job.
+* Adaptable and qucik learner. Able to pick up new frameworks quickly and undertsand documentation.
 
 ### 👨 Quick Bio
 * 🏢 Based in Surrey UK.
