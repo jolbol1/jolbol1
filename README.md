@@ -1,6 +1,6 @@
 ## 👋 Hello Guys! 
 ---
-**I am a self-taught software engineer. Currently wokring at a finance firm developing in house solutions using React, .NET, C# and SQL** 
+**I am a self-taught software engineer. Currently working at a finance firm developing in house solutions using React, .NET, C# and SQL** 
 
 ### 💻 Current Projects
 * Full-time software developer at a finance firm. Creating in-house apps to improve workflows.
@@ -17,7 +17,7 @@
 * Redux
 * Webpack & Gatsby
 * C#
-* .Net Core
+* .NET Core
 * Blazor
 * Microsoft SQL
 
