@@ -1,4 +1,4 @@
-## Hello Guys! 
+## 👋 Hello Guys! 
 ---
 **I am a self-taught software engineer. Currently working at a finance firm developing in house solutions using React, .NET, C# and SQL** 
 
