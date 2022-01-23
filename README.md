@@ -26,7 +26,7 @@
 * Good at problem solving, one of the main reasons I picked a career in development
 * Great at working within a small or large team, able to offer input, give and take constructive feedback.
 * Able to communicate well with end users. Often writing clear and concise wikis at my current job.
-* Adaptable and qucik learner. Able to pick up new frameworks quickly and undertsand documentation.
+* Adaptable and quick learner. Able to pick up new frameworks quickly and understand documentation.
 
 ### 👨 Quick Bio
 * 🏢 Based in Surrey UK.
