@@ -1,6 +1,6 @@
 ## 👋 Hello Guys! 
 ---
-**I am a self-taught software engineer. Currently working at a finance firm developing in house solutions using React, .NET, C# and SQL** 
+**I am a software engineer. Currently working at a finance firm developing in house solutions using React, .NET, C# and SQL** 
 
 ### 💻 Current Projects
 * Full-time software developer at a finance firm. Creating in-house apps to improve workflows.
