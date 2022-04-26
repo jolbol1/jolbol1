@@ -1,12 +1,13 @@
 ## 👋 Hello Guys! 
 ---
-**I am a software engineer. Currently working at a finance firm developing in house solutions using React, .NET, C#, and SQL** 
+**I am a software engineer. Currently working at a leading systems, engineering and technology company.**
 
 ### 💻 Current Projects
-* Full-time software developer at a finance firm. Creating in-house apps to improve workflows.
+* Full-time Engineer working in my firms Cloud Technologies Group.
 * Continual learning. I use my site to test my skills and new frameworks. Currently built with React and Tailwind. Deployed with Gatsby.
 * Self-Hosted Server Maintenance
 * Microcontroller (Raspberry Pico) experiments
+* Azure Training
 
 ### ⚙️ Language/Framework Skills
 * HTML
@@ -31,7 +32,7 @@
 ### 👨 Quick Bio
 * 🏢 Based in Surrey UK.
 * ⚙️ I am self-taught in Java, Python, JavaScript, CSS and HTML
-* 💻 Working with .NET, C# and SQL for a full-time job.
+* 💻 Working with .NET, C# and a range of other technologies for a full-time job.
 * 🌱 Learning all about Open Source
 * 💬 Very passionate about online data control/privacy.
 * ✨ Studied Accounting and Finance at Durham University
