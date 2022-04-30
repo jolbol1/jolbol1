@@ -6,7 +6,7 @@
 * Full-time Engineer working in my firms Cloud Technologies Group.
 * Continual learning. I use my site to test my skills and new frameworks. Currently built with React and Tailwind. Deployed with Gatsby.
 * Self-Hosted Server Maintenance
-* Microcontroller (Raspberry Pico) experiments
+* Micro-controller (Raspberry Pico) experiments
 * Azure Training
 
 ### ⚙️ Language/Framework Skills
@@ -44,7 +44,7 @@ RandomCoordinates: A Minecraft plugin. This was one of my first serious coding p
 
 While the project is no longer maintained it has amassed over 100,000 downloads on various sites (e.g [Spigot](https://www.spigotmc.org/resources/randomcoords-rtp-advanced-random-teleporter.1680/))
 
-### 🔒 Securtiy / Privacy
+### 🔒 Security / Privacy
 Security and Privacy have become a particularly hot topic within technology within the last few years. I started to take an interest when my accounts were involved in several data breaches. Since then I have ensured I use a different password for all services, a different email (using a catch-all at my custom domain) and enabling two-factor authentication for my most important services.
 
 Furthermore, I try to ensure I am browsing the internet as safely as possible. For example, using a Pi-Hole to block all tracking requests and adverts on my entire home network. Using Linux and Firefox (with Modifications) for my web browsing and using a VPN. It's not that I have something to hide, I just prefer to be in control of how and what data is collected.
