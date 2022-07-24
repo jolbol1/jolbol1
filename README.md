@@ -14,6 +14,7 @@
 * CSS
 * SASS
 * JavaScript
+* TypeScript
 * React
 * Redux
 * Webpack & Gatsby
