@@ -1,6 +1,6 @@
 ## 👋 Hello Guys! 
 ---
-**I am a software engineer. Currently working at a leading systems, engineering and technology company.**
+**I am a software engineer. Current;y working on UI/UX for an online learning platform**
 
 ### 💻 Current Projects
 * Full-time Engineer working in my firms Cloud Technologies Group.
