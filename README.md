@@ -2,6 +2,10 @@
 ---
 **I am a software engineer. Current;y working on UI/UX for an online learning platform**
 
+### 🎞️ YouTube
+
+https://www.youtube.com/@JollyCoding
+
 ### 💻 Current Projects
 * Full-time Engineer working in my firms Cloud Technologies Group.
 * Continual learning. I use my site to test my skills and new frameworks. Currently built with React and Tailwind. Deployed with Gatsby.
