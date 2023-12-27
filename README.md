@@ -1,6 +1,6 @@
 ## 👋 Hello Guys! 
 ---
-**I am a software engineer. Current;y working on UI/UX for an online learning platform**
+**I am a software engineer. Currently working on UI/UX for an online learning platform**
 
 ### 🎞️ YouTube
 
